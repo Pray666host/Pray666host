@@ -15,7 +15,7 @@
     mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-<a href:"https://www.instagram.com/xhritzz_?igsh=YTR3b2F1MTU4eDAw" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/></a>&nbsp;
+<a href="https://www.instagram.com/xhritzz_igsh=YTR3b2F1MTU4eDAw" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/></a>&nbsp;
   <a href="https://instagram.com/realfathonix" target="_blank">
 
 # Tools
@@ -37,4 +37,41 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
+<h2 align="center"><strong>Things I play around</strong></h2>
+<div align="center">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/androidstudio.svg" title="Android" alt="Android" width="40" height="40"/></a>&nbsp;
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
+  <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/></a>&nbsp;
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/></a>&nbsp;
+  <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.open-std.org/jtc1/sc22/wg14" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/c.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
+  <a href="https://rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/ferris.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
+  <a href="https://php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;
+  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
+  <a href="https://mariadb.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/></a>&nbsp;
+  <a href="https://nginx.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/nginx.svg" title="NGINX" alt="NGINX" width="40" height="40"/></a>&nbsp;
+  <a href="https://windows.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/windows.svg" title="Windows" alt="Windows" width="40" height="40"/></a>&nbsp;
+  <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
+  <a href="https://debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/></a>&nbsp;
+  <a href="https://makedeb.org/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/makedeb.svg" title="makedeb" alt="makedeb" width="40" height="40"/></a>&nbsp;
+  <a href="https://archlinux.org/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/archlinux.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/></a>&nbsp;
+  <a href="https://raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/></a>&nbsp;
+  <a href="https://apple.com/macos" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/macos.svg" title="macOS" alt="macOS" width="40" height="40"/></a>&nbsp;
+  <a href="https://brew.sh" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/homebrew.svg" title="Homebrew" alt="Homebrew" width="40" height="40"/></a>&nbsp;
+  <a href="https://gnu.org/software/bash" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/bash.svg" title="Bash" alt="Bash" width="40" height="40"/></a>&nbsp;
+  <a href="https://qemu.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/qemu.svg" title="QEMU" alt="QEMU" width="40" height="40"/></a>&nbsp;
+  <a href="https://libvirt.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/libvirt.svg" title="libvirt" alt="libvirt" width="40" height="40"/></a>&nbsp;
+  <a href="https://virtualbox.org" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/virtualbox.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/></a>&nbsp;
+  <a href="https://vmware.com/products/workstation-player" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/vmware.svg" title="VMware Workstation Player" alt="VMware Workstation Player" width="40" height="40"/></a>&nbsp;
+  <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;
+  <a href="https://inkscape.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/></a>&nbsp;
+</div>
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fathonix&show_icons=true&count_private=true&bg_color=00000000&text_color=70a5fd&hide_border=true&hide_rank=true"/>
+  <a href="https://wakatime.com/@fathonix"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fathonix&show_icons=true&layout=compact&bg_color=00000000&text_color=70a5fd&hide_border=true&range=all_time"/> </a>
+</div>
+<i>* "Other" is me playing with Terminal lol</i>
