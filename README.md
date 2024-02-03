@@ -7,9 +7,7 @@
 - Hi, My Name is: HARITS (Tio) 
 - Currently I am a vocational school student majoring in TKJ
 - I'm interested in Web Development and Machine Learning
-# How to Reach Me
-  <a href="https://id.linkedin.com/in/pawit-widiyantoro-634a87284">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+# Follow me
   </a>
   <a href="https://www.facebook.com/profile.php?id=100022943560652&mibextid=ZbWKwL
     mibextid=ZbWKwL">
