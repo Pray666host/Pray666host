@@ -4,7 +4,7 @@
 
   ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
   # About Me
-- Hi, My Name is: HARITS (Tio) 
+- Hi, My Name is: HARITS/TIO 
 - Currently I am a vocational school student majoring in TKJ
 - I'm interested in Web Development and Machine Learning
 # Follow me
