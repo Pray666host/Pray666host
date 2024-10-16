@@ -1,8 +1,10 @@
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="175px"/></a>
+
 - 👋 Hi, I’m @Pray666host
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;pray666host+(Tio)+Meet+You+...&center=true"></a>
 
-  ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ☎️
+  
   # About Me
 - Hi, My Name is: HARITS/TIO 
 - Currently I am a vocational school student majoring in TKJ
